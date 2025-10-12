@@ -5766,6 +5766,13 @@
 	"atm9.quest.gregtech.zpm.subt.hpca": "Now that's a supercomputer",
 	"atm9.quest.gregtech.zpm.desc.research": "Finally, we can move away from those single block &eScanners&r and onto the serious work of a &dResearch Station&r.",
 	"atm9.quest.gregtech.zpm.subt.research": "Get your lab coat and safety goggles",
+	"atm9.quest.gregtech.zpm.desc.spo1":"Now, your current pyrolyse ovens might not be slow, but they can be laggy.",
+	"atm9.quest.gregtech.zpm.desc.spo2":"This superheated version fixes both problems! With the batching capabilities of this multiblock, your factory can grow even more,.! Now with less lag!",
+	"atm9.quest.gregtech.zpm.subt.spo":"Now you are bringing the heat!",
+	"atm9.quest.gregtech.zpm.desc.acu1":"Previously you have had two choices.",
+	"atm9.quest.gregtech.zpm.desc.acu2":"You could either crack your hydrocarbons in the cracker (which is slow) or the large chemical reactor (in which you lose half the products). However, now you gain acess to the Advanced Cracking Unit!",
+	"atm9.quest.gregtech.zpm.desc.acu3":"You no longer have to deal with the pain of your previous cracking setup. Now you can focus on more important stuff (like building your further HPCAs).",
+	"atm9.quest.gregtech.zpm.subt.acu":"You ready to take a crack at it?",
 
 
 	"atm9.quest.gregtech.uv.desc.crystalProcessors.1": "We've made it to Crystal Processors, and now have UV tier processors!",
@@ -6025,6 +6032,10 @@
 	"atm9.quest.gregtech.uhv.desc.neutronium": "Neutronium, a hypothetical substance made up of solely neutrons.\n\nWe are going to need many buckets of this stuff, so it is recommended you make it passively!",
 	"atm9.quest.gregtech.uhv.desc.uvCircuitAssembler": "No, we don't actually need this. At this point the Large Circuit Assembling Facility can be built and powered at UV and above!",
 	"atm9.quest.gregtech.uhv.task.massiveEBF": "96x Coil Blocks",
+	"atm9.quest.gregtech.uhv.desc.hrmbs1":"I'm sure you have made many an ABS in your playthrough.  And now.... &oIt is time&r.",
+	"atm9.quest.gregtech.uhv.desc.hrmbs2":"Time for an &lupgrade,&r one capable of extreme amounts of paralleled strength!",
+	"atm9.quest.gregtech.uhv.desc.hrmbs3":"Get a few of these set up and continue your journey forward!",
+	"atm9.quest.gregtech.uhv.subt.hrmbs":"Even Faster ABS!",
 
 	
 	"atm9.quest.gregtech.star.desc.gregStarIntroduction.1": "At Long Last we have reached our Destination. You have crafted the Coveted &l&1GregStar!",

@@ -1732,14 +1732,14 @@
 		{
 			dependencies: ["586266B2096D27A7"]
 			description: [
-				"Previously you have had two choices. "
+				"{atm9.quest.gregtech.zpm.desc.acu1}"
 				""
-				"You could either crack your hydrocarbons in the cracker (which is slow) or the large chemical reactor (in which you lose half the products). However, now you gain acess to the Advanced Cracking Unit!"
+				"{atm9.quest.gregtech.zpm.desc.acu2}"
 				""
-				"You no longer have to deal with the pain of your previous cracking setup. Now you can focus on more important stuff (like building your further HPCAs)."
+				"{atm9.quest.gregtech.zpm.desc.acu3}"
 			]
 			id: "4624100EDC23C74F"
-			subtitle: "You ready to take a crack at it?"
+			subtitle: "{atm9.quest.gregtech.zpm.subt.acu}"
 			tasks: [
 				{
 					id: "5C5CD0DF7C89234E"
@@ -1828,12 +1828,12 @@
 		{
 			dependencies: ["586266B2096D27A7"]
 			description: [
-				"Now, your current pyrolyse ovens might not be slow, but they can be laggy. "
+				"{atm9.quest.gregtech.zpm.desc.spo1}"
 				""
-				"This superheated version fixes both problems! With the batching capabilities of this multiblock, your factory can grow even more,.! Now with less lag!"
+				"{atm9.quest.gregtech.zpm.desc.spo2}"
 			]
 			id: "14975960BFCF6513"
-			subtitle: "Now you are bringing the heat!"
+			subtitle: "{atm9.quest.gregtech.zpm.subt.spo}"
 			tasks: [
 				{
 					id: "398BDA0D26C5CD99"

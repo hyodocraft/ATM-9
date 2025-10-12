@@ -242,7 +242,7 @@
 		}
 		{
 			height: 3.0d
-			image: "gtceu:block/overlay/machine/overlay_pipe_out"
+			image: "gtceu:block/overlay/machine/overlay_pipe_out_emissive"
 			rotation: 0.0d
 			width: 3.0d
 			x: 16.0d

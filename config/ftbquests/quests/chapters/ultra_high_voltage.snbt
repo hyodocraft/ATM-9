@@ -1365,15 +1365,15 @@
 		{
 			dependencies: ["702CE73E39E4D4BD"]
 			description: [
-				"I'm sure you have made many an ABS in your playthrough.  And now.... &oIt is time&r. "
+				"{atm9.quest.gregtech.uhv.desc.hrmbs1}"
 				""
-				"Time for an &lupgrade,&r one capable of extreme amounts of paralleled strength!"
+				"{atm9.quest.gregtech.uhv.desc.hrmbs2}"
 				""
-				"Get a few of these set up and continue your journey forward!"
+				"{atm9.quest.gregtech.uhv.desc.hrmbs2}"
 			]
 			id: "7CF668319F4B5E11"
 			shape: "gear"
-			subtitle: "Even Faster ABS!"
+			subtitle: "{atm9.quest.gregtech.uhv.subt.hrmbs}"
 			tasks: [
 				{
 					id: "52F1AB970B486A4E"
